@@ -1,4 +1,4 @@
-package com.cloud.video;
+package com.cloud.core;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -2,7 +2,7 @@
 <configuration>
     <!-- 修改一下路径-->
 <!--    windows系统表示项目所在当前盘符下的文件夹-->
-    <property name="PATH" value="/log/eureka"></property>
+    <property name="PATH" value="/log/system"></property>
 
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>
